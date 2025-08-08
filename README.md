@@ -24,7 +24,7 @@ The project follows a rigorous data science pipeline to ensure the robustness an
 #Cluster Interpretation: The characteristics of each resulting cluster are analyzed to define and label the player segments (e.g., 'Power Hitters,' 'Strike Bowlers,' 'Defensive Batsmen').
 
 #Files
-kmeans_project (2).ipynb: A Jupyter Notebook containing the complete source code, detailed analysis, and visualizations.
+kmeans_project (3).ipynb: A Jupyter Notebook containing the complete source code, detailed analysis, and visualizations.
 
 #Technologies and Libraries
 -Programming Language: Python
