@@ -10,8 +10,6 @@ This project employs the K-Means clustering algorithm to segment One Day Interna
 #Dataset
 The analysis is performed on a dataset containing comprehensive career statistics for ODI cricket players. This dataset includes key performance indicators such as runs scored, wickets taken, highest score, and batting and bowling averages.
 
-Data Source: [Please insert the specific URL or source of the dataset here]
-
 #Methodology
 The project follows a rigorous data science pipeline to ensure the robustness and accuracy of the results:
 
